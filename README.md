@@ -1,2 +1,3 @@
 # singing-cactus-toy
-Talking Dancing Toy
+Talking, Singing, and Dancing Cactus Toy
+singingcactustoy.com
